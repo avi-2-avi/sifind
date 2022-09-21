@@ -19,3 +19,11 @@ Clonar el repo y correr el archivo interface.py. Este mostrará una consola grá
 
 
 Los resultados apareceran en una programa gráfico.
+
+### What to do better
+
+- Considerar no usar una libreria de interfaz gráfica. En vez de eso, demostrar la rapidez del análisis.
+- Algoritmo puede ser más rápido de procesar sin necesidad de numpy.
+- Armar una base de datos con las palabras que están siendo agregadas.
+
+### Esta revisión ha sido revisada en Noviembre del 2020. Necesita ser actualizada.
